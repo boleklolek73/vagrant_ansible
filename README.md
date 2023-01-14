@@ -1,2 +1,2 @@
 # vagrant_ansible
-vagrant
+vagrant plus ansible tutorial
